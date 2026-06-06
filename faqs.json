@@ -1,0 +1,17 @@
+[
+  {"question": "How do I reset my password?", "answer": "Go to the login page and click 'Forgot Password'. Enter your registered email and we'll send a reset link within 2 minutes."},
+  {"question": "What payment methods do you accept?", "answer": "We accept Visa, MasterCard, RuPay, UPI (GPay, PhonePe, Paytm), net banking, and EMI options from leading banks."},
+  {"question": "How can I track my order?", "answer": "Log into your account and go to 'My Orders'. Click on your order to see live tracking. You'll also get SMS and email updates."},
+  {"question": "What is your return policy?", "answer": "We offer a 30-day hassle-free return policy. Items must be unused, in original packaging, with invoice. Start returns from 'My Orders'."},
+  {"question": "How do I cancel my order?", "answer": "You can cancel within 24 hours of placing the order. Go to 'My Orders', select the order, and click 'Cancel Order'."},
+  {"question": "How long does delivery take?", "answer": "Standard delivery takes 3–7 business days. Express delivery (1–2 days) is available in select cities."},
+  {"question": "Is my personal data safe?", "answer": "Yes! All data is encrypted using SSL/TLS. We never sell your data to third parties and comply with all data protection laws."},
+  {"question": "How do I contact customer support?", "answer": "Reach us via live chat (9 AM–9 PM IST), email at support@example.com, or call 1800-XXX-XXXX (toll-free)."},
+  {"question": "Can I change my delivery address?", "answer": "Yes, before the order ships. Go to 'My Orders', select the order, and click 'Edit Address'. Once shipped, changes are not possible."},
+  {"question": "How do I apply a coupon code?", "answer": "On the checkout page, enter your coupon code in the 'Apply Coupon' field and click Apply. Discount shows instantly."},
+  {"question": "What if I receive a damaged product?", "answer": "Take photos and contact support within 48 hours of delivery. We'll arrange a free replacement or full refund immediately."},
+  {"question": "How do I create an account?", "answer": "Click 'Sign Up', enter your name, email, and password. Verify your email via the link sent to your inbox."},
+  {"question": "Do you offer free shipping?", "answer": "Yes! Free shipping on orders above Rs.499. Orders below attract a flat Rs.49 shipping fee."},
+  {"question": "What is EMI option?", "answer": "We offer 3, 6, 9, and 12-month No Cost EMI on orders above Rs.3000 using select credit cards from HDFC, SBI, ICICI, Axis, Kotak."},
+  {"question": "How do I update my profile?", "answer": "Log in and go to 'My Profile'. Update your name, phone, address, or profile picture, then click 'Save Changes'."}
+]
